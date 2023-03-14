@@ -1,7 +1,6 @@
-### Hi, I'm Kostya👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+Developer+student)](https://git.io/typing-svg)
-<!--
-**Glow3r/glow3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Kostya</h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">.NET Developer from Russia 🇷🇺</h3>
 
 Here are some ideas to get you started:
 
